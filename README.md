@@ -1,3 +1,6 @@
+# Reference
+These notes were prepared during self-paced learning. Over 20 years ago, I used to practice Flask tutorials based on Microsoft webinars! This document uses examples from Miguel Grinberg as illustrated in his Flask Mega-Tutorial (new and improved edition, of course).
+
 # flask
 Flask deployment and basic exercises
 
@@ -41,7 +44,6 @@ Either
 `flask run`
 Or
 `flask helloapp.py`
-
 
 
 
