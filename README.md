@@ -1,5 +1,8 @@
 # Reference
-These notes were prepared during self-paced learning. Over 20 years ago, I used to practice Flask tutorials based on Microsoft webinars! This document uses examples from Miguel Grinberg as illustrated in his Flask Mega-Tutorial (new and improved edition, of course).
+These notes were prepared during self-paced learning. Over 20 years ago, I used to practice Flask tutorials based on Microsoft webinars! Unfortunately, I never had the bandwidth to practice what I learned. Now, with enforced involuntary retirement, I can indulge in nostalgia.  
+
+This document uses examples from Miguel Grinberg as illustrated in his Flask Mega-Tutorial (new and improved edition, of course):  
+Flask Web Development by Miguel Grinberg, (O’Reilly). Copyright 2014 Miguel Grinberg, 978-1-449-3726-2.  
 
 # flask
 Flask deployment and basic exercises
